@@ -52,7 +52,7 @@
         <div class="profile-item">
             <img src="imagen_de_perfil2.jpg" alt="Imagen de perfil" class="profile-image">
             <div class="title">Nombre de Usuario 2</div>
-            <div class="description">Descripción breve del usuario 2.</div>
+            <div class="description">Descripción breve del usuario 2</div>
         </div>
         <div class="profile-item">
             <img src="imagen_de_perfil3.jpg" alt="Imagen de perfil" class="profile-image">
