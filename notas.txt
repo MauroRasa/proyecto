@@ -14,5 +14,5 @@ termino el php, proye, grid columnas y filas.
 
 Andy
 --------------------------------------------------------------------------------------------------
-termine el css correspondiente al index.html y coloque la conexion en el index.html del css. 
+termine el css correspondiente al index.html y puse la conexion en el index.html del css. 
 --------------------------------------------------------------------------------------------------
